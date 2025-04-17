@@ -36,7 +36,7 @@ A Discord bot for tracking player points, creating leaderboards, and enabling po
    - Copy your bot token
 
 4. **Configure the bot**:
-   - Replace `YOUR_TOKEN_HERE` in `bot.py` with your actual bot token
+   - Replace `YOUR_TOKEN_HERE` in `ranking_bot.py` with your actual bot token
    
 5. **Invite the bot to your server**:
    - Generate an invite URL in the OAuth2 section of the Developer Portal

@@ -44,7 +44,7 @@ A Discord bot for tracking player points, creating leaderboards, and enabling po
 
 6. **Run the bot**:
    ```
-   ranking_bot.py
+   python ranking_bot.py
    ```
 
 ## Data Storage
